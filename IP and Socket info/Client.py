@@ -12,5 +12,4 @@ clientSocket.sendto(message.encode('utf-8'), (serverName, serverPort))
 modifiedMessage, serverAddress = clientSocket.recvfrom(2048)
 modifiedMessage = modifiedMessage.decode('utf-8')
 print(modifiedMessage)
-
 clientSocket.close()
