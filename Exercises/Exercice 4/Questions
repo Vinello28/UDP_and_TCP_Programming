@@ -1,0 +1,3 @@
+1) non accade nulla agli altri client, che rimangono in attesa che si liberi il server
+2) non succede nulla se invio un messaggio dal secondo client, almeno finchè non chiudo il primo client
+3) se chiudo il primo client, il secondo client può comunicare con il server
