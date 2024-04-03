@@ -3,13 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (UDP and TCP Programming)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (UDP and TCP Programming)" project-jdk-type="Python SDK" />
-  <component name="accountSettings">
-    <option name="activeRegion" value="us-east-1" />
-    <option name="recentlyUsedRegions">
-      <list>
-        <option value="us-east-1" />
-      </list>
-    </option>
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (UDP and TCP lab)" project-jdk-type="Python SDK" />
 </project>
