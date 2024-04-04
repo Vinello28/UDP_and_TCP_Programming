@@ -1,6 +1,3 @@
-Sure, here is the README file with the appropriate markdown formatting:
-
-```markdown
 # Foundamentals of Communications and Internet Laboratory Exercises
 
 This repository contains the laboratory exercises for the course "Foundamentals of Communications and Internet". The exercises are implemented in Python and cover various topics related to networking and communication protocols.
@@ -44,4 +41,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
